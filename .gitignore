@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Logs
+*.log
+*.log.*
+
+# Data files
+data/
+*.csv
+*.json
+*.parquet
+*.xlsx
+
+#  Model files
+models/
+*.pkl
+*.joblib
+
+#  Figures and plots
+figures/
+*.png
+*.jpg
+*.svg
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# MacOS junk
+.DS_Store
+
+# Env files
+.env
+.env.*
+
+# Jupyter checkpoints (if any)
+.ipynb_checkpoints/

@@ -1,4 +1,4 @@
-#!/Users/joyna/Maz/StockTradingAI/venv/bin/python3.12
+#!/Users/joyna/Documents/Maz/StockTradingAI/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
